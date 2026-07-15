@@ -77,3 +77,5 @@ Bachelor's Degree in Information Technology | 2023 - Present
 
 - [LinkedIn](https://www.linkedin.com/in/piriya-tharatum-74931b3b8/)
 - [GitHub](https://github.com/ubonbaby)
+
+<!-- Profile README refresh marker -->
